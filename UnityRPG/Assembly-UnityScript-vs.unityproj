@@ -44,6 +44,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\GUI\GameGui.js" />
      <Compile Include="Assets\Scripts\Portal.js" />
      <Compile Include="Assets\Scripts\QuestMerchant.js" />
      <Compile Include="Assets\Scripts\QuestSystem.js" />
